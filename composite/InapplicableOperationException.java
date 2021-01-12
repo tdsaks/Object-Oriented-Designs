@@ -1,0 +1,6 @@
+class InapplicableOperationException extends Exception
+{
+
+}
+
+
